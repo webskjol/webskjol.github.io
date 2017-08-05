@@ -1,0 +1,62 @@
+@font-face {
+			font-family: 'OpenSansRegular';
+			url('../fonts/OpenSansRegular/OpenSansRegular.ttf') format("truetype");
+			
+		}
+
+@font-face {
+			font-family: 'Bebas';
+			url('../fonts/Bebas.ttf');
+			
+		}
+
+	@font-face {
+    font-family: 'Lato';
+    url('../fonts/Lato-Regular.ttf');
+}
+
+
+   @font-face {
+    font-family: 'Bebas';
+    src: url('../fonts/bebas.ttf');
+}
+
+@font-face {
+    font-family: 'Lobster';
+    src: url('../fonts/lobster.ttf');
+}
+
+
+.text-box{
+
+	padding-top: 2rem;
+}
+.resault {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+
+small {
+	font-size: 1.3rem;
+}
+
+.resault-one {
+	font-family: 'OpenSansRegular', sans-serif;
+}
+
+.resault-two {
+	font-family: 'Bebas', sans-serif;
+}
+
+.resault-three {
+	font-family: 'Lato', sans-serif;
+}
+
+.resault-four {
+	font-family: 'Lobster', sans-serif;
+}
