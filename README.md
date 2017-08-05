@@ -8,3 +8,5 @@
 [Урок 13](https://webskjol.github.io/lesson_12/ "Тринадцатый")
 
 [Практика ч.1](https://webskjol.github.io/practice_1// "Практика")
+
+[Урок 14](https://webskjol.github.io/lesson_14/ "Четырнадцатый")
