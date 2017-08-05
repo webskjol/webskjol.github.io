@@ -5,4 +5,4 @@
 
 [Урок 8](https://webskjol.github.io/lesson_8/ "Восьмой")
 
-[Урок 12](https://webskjol.github.io/lesson_12/ "Двенадцатый")
+[Урок 13](https://webskjol.github.io/lesson_12/ "Тринадцатый")
