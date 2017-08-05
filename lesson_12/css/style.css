@@ -1,0 +1,40 @@
+body {
+	background-image: url(../img/bg.png);
+
+}
+
+.container {
+	width: 570px;
+}
+
+.form {
+	
+	width: 370px;
+	height: 374px;
+	margin: 100px 127px;
+	padding: 46px 30px;
+}
+
+.form input {
+	margin-bottom: 13px;
+}
+
+.pan {
+	margin-bottom: 15px;
+}
+
+p {
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	padding-bottom: 15px;
+}
+
+span {
+	color:#01b3b3;
+}
+
+ 
+
+
+
+
